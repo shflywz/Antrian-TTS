@@ -48,3 +48,9 @@
 ```bash
 git clone https://github.com/username/antrian-tts.git
 cd antrian-tts
+
+2. Copy .env
+
+```bash
+git clone https://github.com/username/antrian-tts.git
+cd antrian-tts
