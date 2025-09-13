@@ -48,9 +48,45 @@
 ```bash
 git clone https://github.com/username/antrian-tts.git
 cd antrian-tts
+```
 
 2. Copy .env
 
 ```bash
 git clone https://github.com/username/antrian-tts.git
 cd antrian-tts
+```
+
+3. Build dan jalankan semua container
+
+```bash
+./vendor/bin/sail up -d
+```
+
+
+4. Cek status container
+
+```bash
+docker ps
+```
+
+
+5. Database Migration
+
+```bash
+./vendor/bin/sail artisan migrate
+```
+
+
+6. Menjalankan Queue Worker
+
+```bash
+./vendor/bin/sail artisan queue:work
+```
+
+
+7. Menjalankan Project di Browser
+
+```bash
+http://localhost:8080
+``` 
