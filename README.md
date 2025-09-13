@@ -133,3 +133,7 @@ Gunakan host pgsql dan port 5432 di .env.
 Laravel: ./vendor/bin/sail logs -f laravel.test
 PostgreSQL: docker logs antrian-tts-pgsql-1
 ```
+
+## **License**
+
+MIT License © 2025 Dian Hadiyansah
