@@ -90,3 +90,46 @@ docker ps
 ```bash
 http://localhost:8080
 ``` 
+
+## **Testing Email dengan Mailpit**
+
+1. Dashboard Mailpit
+
+```bash
+http://localhost:8025
+```
+
+2. SMTP host
+
+```bash
+mailpit:1025
+```
+
+## **Troubleshooting**
+
+1. Port sudah digunakan
+
+```bash
+Ubah APP_PORT=8080 di .env.
+Restart Sail: ./vendor/bin/sail down && ./vendor/bin/sail up -d.
+```
+
+2. Queue tidak berjalan
+
+```bash
+Pastikan Redis container Up.
+Jalankan: ./vendor/bin/sail artisan queue:work.
+```
+
+3. Laravel tidak connect ke PostgreSQL
+
+```bash
+Gunakan host pgsql dan port 5432 di .env.
+```
+
+4. Cek logs
+
+```bash
+Laravel: ./vendor/bin/sail logs -f laravel.test
+PostgreSQL: docker logs antrian-tts-pgsql-1
+```
