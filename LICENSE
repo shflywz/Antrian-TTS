@@ -1,50 +1,51 @@
-Dual License: Educational (Non-Commercial) & Commercial
+Lisensi Ganda: Edukasi (Non-Komersial) & Komersial
 
-Copyright (c) 2025 Dian Hadiyansah
+Hak Cipta (c) 2025 Dian Hadiyansah
 
-This software is distributed under a dual licensing model, which provides
-different terms for educational/non-commercial use and commercial use.
+Perangkat lunak ini didistribusikan dengan model lisensi ganda, yang memberikan
+ketentuan berbeda untuk penggunaan edukasi/non-komersial dan penggunaan komersial.
 
 ────────────────────────────────────────────
-1. Educational / Non-Commercial Use License
+1. Lisensi Edukasi / Non-Komersial
 ────────────────────────────────────────────
-Permission is hereby granted, free of charge, to any individual, student,
-researcher, educator, or organization, to use, copy, modify, and distribute
-this software and its associated documentation files (the "Software")
-STRICTLY for the following purposes:
-- Personal learning or self-study
-- Research projects (academic or non-profit)
-- Classroom use (teaching, training, or demonstrations)
-- Open collaboration on non-commercial projects
+Izin diberikan secara gratis kepada setiap individu, pelajar, peneliti,
+pendidik, atau organisasi untuk menggunakan, menyalin, memodifikasi, dan
+mendistribusikan perangkat lunak ini beserta dokumentasi terkait
+("Perangkat Lunak") **hanya untuk tujuan berikut**:
+- Belajar mandiri atau latihan pribadi
+- Penelitian akademis atau non-profit
+- Penggunaan di kelas (pengajaran, pelatihan, atau demonstrasi)
+- Kolaborasi terbuka pada proyek non-komersial
 
-Conditions:
-- Commercial use in any form is strictly prohibited under this license.
-- The copyright notice and this license must be included in all copies
-  or substantial portions of the Software.
-- Any modifications should clearly state that they are based on the
-  original work.
-
-───────────────────────────────
-2. Commercial Use License
-───────────────────────────────
-Any use of this Software for **profit-oriented or commercial purposes**
-requires a separate commercial license agreement with the author.
-Commercial purposes include, but are not limited to:
-- Selling or reselling the Software (as-is or modified)
-- Offering the Software as part of a paid service or SaaS platform
-- Embedding the Software into a proprietary or closed-source product
-- Using the Software in business operations that generate revenue
-
-To obtain a commercial license, please contact:
-📧 dian.hadiyansah@example.com (ganti dengan emailmu)
+Syarat:
+- Penggunaan komersial dalam bentuk apa pun **dilarang keras** di bawah lisensi ini.
+- Pemberitahuan hak cipta dan lisensi ini wajib disertakan dalam semua salinan
+  atau bagian substansial dari Perangkat Lunak.
+- Setiap modifikasi harus dengan jelas mencantumkan bahwa itu adalah turunan
+  dari karya asli.
 
 ───────────────────────────────
-3. Disclaimer of Warranty
+2. Lisensi Komersial
 ───────────────────────────────
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
-THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Setiap penggunaan Perangkat Lunak ini untuk **tujuan profit atau komersial**
+membutuhkan perjanjian lisensi komersial terpisah dengan pemegang hak cipta.
+Tujuan komersial mencakup, namun tidak terbatas pada:
+- Menjual atau menjual kembali Perangkat Lunak (baik asli maupun hasil modifikasi)
+- Menawarkan Perangkat Lunak sebagai bagian dari layanan berbayar atau platform SaaS
+- Menyertakan Perangkat Lunak dalam produk berpemilik atau closed-source
+- Menggunakan Perangkat Lunak dalam operasional bisnis yang menghasilkan pendapatan
+
+Untuk memperoleh lisensi komersial, silakan hubungi:
+📧 diansyah060997@gmail.com
+
+───────────────────────────────
+3. Penafian Jaminan
+───────────────────────────────
+PERANGKAT LUNAK INI DIBERIKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APA PUN,
+BAIK TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN
+KELAYAKAN UNTUK DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU, DAN
+PELANGGARAN HAK. DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA
+TIDAK BERTANGGUNG JAWAB ATAS KERUGIAN, KLAIM, ATAU KEWAJIBAN APA PUN,
+BAIK DALAM KONTRAK, PERBUATAN MELAWAN HUKUM, ATAU SEBALIKNYA,
+YANG TIMBUL DARI, KELUAR DARI, ATAU BERHUBUNGAN DENGAN PERANGKAT LUNAK
+ATAU PENGGUNAAN PERANGKAT LUNAK INI.
