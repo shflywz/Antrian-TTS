@@ -134,6 +134,20 @@ Laravel: ./vendor/bin/sail logs -f laravel.test
 PostgreSQL: docker logs antrian-tts-pgsql-1
 ```
 
-## **License**
+## Lisensi
 
-MIT License © 2025 Dian Hadiyansah
+Proyek ini menggunakan model **Dual License**:
+
+- **Edukasi / Non-Komersial**  
+  Gratis digunakan untuk **belajar, penelitian, atau proyek non-komersial**.  
+  Contoh: tugas kuliah, riset, proyek pribadi, atau latihan pemrograman.
+
+- **Komersial**  
+  Jika ingin menggunakan proyek ini untuk **tujuan bisnis atau aktivitas yang
+  menghasilkan keuntungan**, Anda wajib memperoleh **lisensi komersial**
+  dari penulis.  
+
+Hubungi untuk penggunaan komersial: **diansyah060997@gmail.com**
+
+Catatan: Menggunakan proyek ini untuk kepentingan komersial **tanpa lisensi yang sah**  
+merupakan pelanggaran hak cipta dan dapat dikenakan tindakan hukum.
